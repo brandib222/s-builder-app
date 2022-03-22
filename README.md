@@ -32,3 +32,6 @@ Welcome to Sandwich Heaven! I love sandwiches, but I get tired of having the sam
     - Search bar function
     - Like/Save sandwiches
     - Add comments
+    - Rank your favorites
+
+    
