@@ -27,6 +27,7 @@ Welcome to Sandwich Heaven! I love sandwiches, but I get tired of having the sam
     - Landing page that gets posts
 
 ## Stretch
+
     - Edit posts --- auth
     - Delete posts --- auth
     - Search bar function
